@@ -66,6 +66,22 @@ Instructions:
   oscillations, rigid body, negligible friction, etc., as applicable).
 - Do not generate the results section or the statistical analysis yet —
   only the conceptual/theoretical framework.
+
+Retrieval and source attribution (mandatory):
+- Perform retrieval over the indexed source material and ground every
+  non-trivial claim, definition, derivation step, or equation in a specific
+  retrieved passage — do not answer from general/parametric knowledge alone
+  when a source is available in the index.
+- For every important passage you draw on, cite it inline right where it is
+  used, in the form: [source_id] p. <page_number> — e.g. "the restoring
+  torque for small oscillations is given by [3] p. 142."
+- If a claim is supported by more than one retrieved passage, cite all of
+  them: [2] p. 87, [5] p. 12.
+- If you cannot find a specific supporting passage for a claim, say so
+  explicitly ("no direct source found for this step") instead of citing a
+  page that doesn't actually support it.
+- At the end of your answer, list the retrieved sources referenced, each
+  with its source_id, title/document name, and the page(s) actually cited.
 ```
 
 Rules for this prompt:
